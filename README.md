@@ -6,4 +6,5 @@
 - [ ] write down who rules
 
 ## TODO as:
-- [ ] prepare hello world script
+- [x] prepare hello world script
+- 
