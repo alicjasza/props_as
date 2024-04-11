@@ -1,1 +1,1 @@
-print("geoinformatyka rządzi oh yeaaaah!!!!")
+print("geoinformatyka rządzi oh yeaaaah!!!! rozpoznanie też meteo też")
